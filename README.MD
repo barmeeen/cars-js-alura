@@ -2,7 +2,7 @@
 
 > Este curso tem como objetivo final desenvolver a lógica de programação com o desenvolvimento do clássico jogo Freeway.
 <p align="center">
-<img src="https://github.com/barmeeen/cars-js-alura/blob/master/images/cars-js.png?raw=true" width="300" height="250">
+<img src="https://github.com/barmeeen/cars-js-alura/blob/main/images/cars-js.png?raw=true" width="300" height="250">
 </p>
 
 ### Objetivos do curso
